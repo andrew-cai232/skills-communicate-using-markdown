@@ -6,3 +6,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Test One
+- [ ] Test Two
+- [ ] Test Three
